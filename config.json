@@ -1,126 +1,4 @@
 {
-  "Lifestyle": [
-    {
-      "width": 333,
-      "height": 1000,
-      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.jpg",
-      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.jpg",
-      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.placeholder.jpg"
-    },
-    {
-      "width": 560,
-      "height": 1000,
-      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.jpg",
-      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.jpg",
-      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.placeholder.jpg"
-    },
-    {
-      "width": 545,
-      "height": 1000,
-      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.jpg",
-      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.placeholder.jpg"
-    },
-    {
-      "width": 666,
-      "height": 1000,
-      "path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.jpg",
-      "compressed_path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.placeholder.jpg"
-    },
-    {
-      "width": 500,
-      "height": 1000,
-      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.jpg",
-      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.placeholder.jpg"
-    },
-    {
-      "width": 953,
-      "height": 1000,
-      "path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.jpg",
-      "compressed_path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 999,
-      "path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.jpg",
-      "compressed_path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 788,
-      "path": "./photos/Lifestyle/joules.jpg",
-      "compressed_path": "./photos/Lifestyle/joules.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/joules.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 707,
-      "path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.jpg",
-      "compressed_path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 659,
-      "path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.jpg",
-      "compressed_path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 808,
-      "path": "./photos/Lifestyle/Travel essentials_RT.jpg",
-      "compressed_path": "./photos/Lifestyle/Travel essentials_RT.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/Travel essentials_RT.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 917,
-      "path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.jpg",
-      "compressed_path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.placeholder.jpg"
-    },
-    {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.jpg",
-      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.placeholder.jpg"
-    }
-  ],
   "Food": [
     {
       "width": 1000,
@@ -276,14 +154,6 @@
     },
     {
       "width": 1000,
-      "height": 574,
-      "path": "./photos/Food/TESCO CAFE_100% BRITISH BEEF BURGER AND CHIPS RT - RGB.jpg",
-      "compressed_path": "./photos/Food/TESCO CAFE_100% BRITISH BEEF BURGER AND CHIPS RT - RGB.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/TESCO CAFE_100% BRITISH BEEF BURGER AND CHIPS RT - RGB.placeholder.jpg"
-    },
-    {
-      "width": 1000,
       "height": 567,
       "path": "./photos/Food/TESCO CAFE_EGGS BENEDICT RT - RGB.jpg",
       "compressed_path": "./photos/Food/TESCO CAFE_EGGS BENEDICT RT - RGB.min.jpg",
@@ -393,6 +263,128 @@
       "compressed_path": "./photos/Food/TESCO CAFE_HOT CHOCOLATE RT - RGB.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Food/TESCO CAFE_HOT CHOCOLATE RT - RGB.placeholder.jpg"
+    }
+  ],
+  "Lifestyle": [
+    {
+      "width": 333,
+      "height": 1000,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 1000,
+      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.jpg",
+      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.placeholder.jpg"
+    },
+    {
+      "width": 560,
+      "height": 1000,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 1000,
+      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.jpg",
+      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.placeholder.jpg"
+    },
+    {
+      "width": 545,
+      "height": 1000,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.placeholder.jpg"
+    },
+    {
+      "width": 666,
+      "height": 1000,
+      "path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.jpg",
+      "compressed_path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.placeholder.jpg"
+    },
+    {
+      "width": 500,
+      "height": 1000,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.placeholder.jpg"
+    },
+    {
+      "width": 953,
+      "height": 1000,
+      "path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.jpg",
+      "compressed_path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 999,
+      "path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.jpg",
+      "compressed_path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 788,
+      "path": "./photos/Lifestyle/joules.jpg",
+      "compressed_path": "./photos/Lifestyle/joules.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/joules.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 707,
+      "path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.jpg",
+      "compressed_path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 659,
+      "path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.jpg",
+      "compressed_path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 808,
+      "path": "./photos/Lifestyle/Travel essentials_RT.jpg",
+      "compressed_path": "./photos/Lifestyle/Travel essentials_RT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/Travel essentials_RT.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 917,
+      "path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.jpg",
+      "compressed_path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.placeholder.jpg"
+    },
+    {
+      "width": 1000,
+      "height": 1000,
+      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.jpg",
+      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.placeholder.jpg"
     }
   ]
 }

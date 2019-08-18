@@ -29,7 +29,7 @@ body {
 }
 
 .text-div {
-	max-width: 30rem;
+	max-width: 40rem;
 	margin: auto;
 	float: left;
 	margin-top: 2rem;
@@ -38,6 +38,7 @@ body {
 .text-div > p, .text-div > ul > li {
 	color: gray;
 	line-height: 1.8rem;
+	margin-bottom: 1rem;
 }
 
 li {

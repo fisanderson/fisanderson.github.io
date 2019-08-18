@@ -1,0 +1,78 @@
+{
+  "Foo": [
+    {
+      "width": 2500,
+      "height": 1706,
+      "path": "./photos/Foo/pigs.jpg",
+      "compressed_path": "./photos/Foo/pigs.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/pigs.placeholder.jpg"
+    },
+    {
+      "width": 2342,
+      "height": 1594,
+      "path": "./photos/Foo/Screenshot 2019-08-04 at 17.14.03.png",
+      "compressed_path": "./photos/Foo/Screenshot 2019-08-04 at 17.14.03.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/Screenshot 2019-08-04 at 17.14.03.placeholder.png"
+    },
+    {
+      "width": 5792,
+      "height": 8688,
+      "path": "./photos/Foo/TES0070334_04_T ORIENTAL LILIES PINK_.jpg",
+      "compressed_path": "./photos/Foo/TES0070334_04_T ORIENTAL LILIES PINK_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/TES0070334_04_T ORIENTAL LILIES PINK_.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 2499,
+      "path": "./photos/Foo/B20LR_GG18_SHOT1_Ret3_CMYK.jpg",
+      "compressed_path": "./photos/Foo/B20LR_GG18_SHOT1_Ret3_CMYK.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/B20LR_GG18_SHOT1_Ret3_CMYK.placeholder.jpg"
+    },
+    {
+      "width": 2500,
+      "height": 1970,
+      "path": "./photos/Foo/joules.jpg",
+      "compressed_path": "./photos/Foo/joules.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/joules.placeholder.jpg"
+    },
+    {
+      "width": 4961,
+      "height": 3508,
+      "path": "./photos/Foo/Facebook and Twitter_shot1_RT.jpg",
+      "compressed_path": "./photos/Foo/Facebook and Twitter_shot1_RT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/Facebook and Twitter_shot1_RT.placeholder.jpg"
+    },
+    {
+      "width": 12245,
+      "height": 8071,
+      "path": "./photos/Foo/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.jpg",
+      "compressed_path": "./photos/Foo/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foo/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.placeholder.jpg"
+    }
+  ],
+  "Bar": [
+    {
+      "width": 2500,
+      "height": 872,
+      "path": "./photos/Bar/Whole+cooked+lobster_.jpg",
+      "compressed_path": "./photos/Bar/Whole+cooked+lobster_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bar/Whole+cooked+lobster_.placeholder.jpg"
+    },
+    {
+      "width": 8176,
+      "height": 6132,
+      "path": "./photos/Bar/TESCO CAFE_FLAT WHITE TOP RT - RGB.jpg",
+      "compressed_path": "./photos/Bar/TESCO CAFE_FLAT WHITE TOP RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bar/TESCO CAFE_FLAT WHITE TOP RT - RGB.placeholder.jpg"
+    }
+  ]
+}

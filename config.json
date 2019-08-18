@@ -1,78 +1,406 @@
 {
-  "Foo": [
+  "Lifestyle": [
     {
-      "width": 2500,
-      "height": 1706,
-      "path": "./photos/Foo/pigs.jpg",
-      "compressed_path": "./photos/Foo/pigs.min.jpg",
+      "width": 600,
+      "height": 1800,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/pigs.placeholder.jpg"
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_VEGAN_600x1800.placeholder.jpg"
     },
     {
-      "width": 2342,
-      "height": 1594,
-      "path": "./photos/Foo/Screenshot 2019-08-04 at 17.14.03.png",
-      "compressed_path": "./photos/Foo/Screenshot 2019-08-04 at 17.14.03.min.png",
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.jpg",
+      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/Screenshot 2019-08-04 at 17.14.03.placeholder.png"
+      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_TANNING_1080x1080.placeholder.jpg"
+    },
+    {
+      "width": 600,
+      "height": 1070,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_SPF_600x1070.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.jpg",
+      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SLEEP_1080x1080.placeholder.jpg"
+    },
+    {
+      "width": 600,
+      "height": 1100,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_TAN_600x1800.placeholder.jpg"
     },
     {
       "width": 5792,
       "height": 8688,
-      "path": "./photos/Foo/TES0070334_04_T ORIENTAL LILIES PINK_.jpg",
-      "compressed_path": "./photos/Foo/TES0070334_04_T ORIENTAL LILIES PINK_.min.jpg",
+      "path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.jpg",
+      "compressed_path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/TES0070334_04_T ORIENTAL LILIES PINK_.placeholder.jpg"
+      "placeholder_path": "./photos/Lifestyle/TES0070334_04_T ORIENTAL LILIES PINK_.placeholder.jpg"
+    },
+    {
+      "width": 550,
+      "height": 1100,
+      "path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.jpg",
+      "compressed_path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/PIN_Q2_P8_2019_sleep_600x1100_mock_up.placeholder.jpg"
+    },
+    {
+      "width": 1526,
+      "height": 1600,
+      "path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.jpg",
+      "compressed_path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/Moisturiser_Water_RUSS_3_FLAT.placeholder.jpg"
     },
     {
       "width": 2500,
       "height": 2499,
-      "path": "./photos/Foo/B20LR_GG18_SHOT1_Ret3_CMYK.jpg",
-      "compressed_path": "./photos/Foo/B20LR_GG18_SHOT1_Ret3_CMYK.min.jpg",
+      "path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.jpg",
+      "compressed_path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/B20LR_GG18_SHOT1_Ret3_CMYK.placeholder.jpg"
+      "placeholder_path": "./photos/Lifestyle/B20LR_GG18_SHOT1_Ret3_CMYK.placeholder.jpg"
     },
     {
       "width": 2500,
       "height": 1970,
-      "path": "./photos/Foo/joules.jpg",
-      "compressed_path": "./photos/Foo/joules.min.jpg",
+      "path": "./photos/Lifestyle/joules.jpg",
+      "compressed_path": "./photos/Lifestyle/joules.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/joules.placeholder.jpg"
+      "placeholder_path": "./photos/Lifestyle/joules.placeholder.jpg"
     },
     {
-      "width": 4961,
-      "height": 3508,
-      "path": "./photos/Foo/Facebook and Twitter_shot1_RT.jpg",
-      "compressed_path": "./photos/Foo/Facebook and Twitter_shot1_RT.min.jpg",
+      "width": 1240,
+      "height": 877,
+      "path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.jpg",
+      "compressed_path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/Facebook and Twitter_shot1_RT.placeholder.jpg"
+      "placeholder_path": "./photos/Lifestyle/Facebook and Twitter_shot1_RT.placeholder.jpg"
     },
     {
       "width": 12245,
       "height": 8071,
-      "path": "./photos/Foo/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.jpg",
-      "compressed_path": "./photos/Foo/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.min.jpg",
+      "path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.jpg",
+      "compressed_path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Foo/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.placeholder.jpg"
+      "placeholder_path": "./photos/Lifestyle/085869752_Fox & Ivy Coral Garden Floral Duvet Set Double.placeholder.jpg"
+    },
+    {
+      "width": 2731,
+      "height": 2207,
+      "path": "./photos/Lifestyle/Travel essentials_RT.jpg",
+      "compressed_path": "./photos/Lifestyle/Travel essentials_RT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/Travel essentials_RT.placeholder.jpg"
+    },
+    {
+      "width": 8461,
+      "height": 7760,
+      "path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.jpg",
+      "compressed_path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/085869622_Tesco Pink Gingko Leaf Duvet Set Double_.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.jpg",
+      "compressed_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Lifestyle/INSTAGRAM_Q2_P8_2019_SPF_1080x1080.placeholder.jpg"
     }
   ],
-  "Bar": [
+  "Food": [
+    {
+      "width": 2500,
+      "height": 1706,
+      "path": "./photos/Food/pigs.jpg",
+      "compressed_path": "./photos/Food/pigs.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/pigs.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1121,
+      "path": "./photos/Food/SIDE+OF+SALMON_RT.jpg",
+      "compressed_path": "./photos/Food/SIDE+OF+SALMON_RT.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/SIDE+OF+SALMON_RT.placeholder.jpg"
+    },
+    {
+      "width": 5686,
+      "height": 3156,
+      "path": "./photos/Food/TESCO CAFE_CHEESY PIZZA RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_CHEESY PIZZA RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_CHEESY PIZZA RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 5699,
+      "height": 3289,
+      "path": "./photos/Food/GRO_WF_085_JDF IRISH STEW 300G_.jpg",
+      "compressed_path": "./photos/Food/GRO_WF_085_JDF IRISH STEW 300G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/GRO_WF_085_JDF IRISH STEW 300G_.placeholder.jpg"
+    },
+    {
+      "width": 5843,
+      "height": 6726,
+      "path": "./photos/Food/GRO_WF_404_SPECIAL FLAKE CEREAL 500G_B.jpg",
+      "compressed_path": "./photos/Food/GRO_WF_404_SPECIAL FLAKE CEREAL 500G_B.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/GRO_WF_404_SPECIAL FLAKE CEREAL 500G_B.placeholder.jpg"
+    },
+    {
+      "width": 7600,
+      "height": 4525,
+      "path": "./photos/Food/TESCO CAFE_THE BIG BREAKFAST RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_THE BIG BREAKFAST RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_THE BIG BREAKFAST RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 500,
+      "height": 700,
+      "path": "./photos/Food/spices+1.jpg",
+      "compressed_path": "./photos/Food/spices+1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/spices+1.placeholder.jpg"
+    },
+    {
+      "width": 4099,
+      "height": 3669,
+      "path": "./photos/Food/FRZ_WF_069_TESCO DEEP CHEESE PIZZA 386G_FOP.jpg",
+      "compressed_path": "./photos/Food/FRZ_WF_069_TESCO DEEP CHEESE PIZZA 386G_FOP.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/FRZ_WF_069_TESCO DEEP CHEESE PIZZA 386G_FOP.placeholder.jpg"
+    },
+    {
+      "width": 7768,
+      "height": 4334,
+      "path": "./photos/Food/TESCO CAFE_POT OF TEA RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_POT OF TEA RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_POT OF TEA RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 6677,
+      "height": 5456,
+      "path": "./photos/Food/FRZ_WF_099_TESCO ROAST BEEF DINNER 400G_.jpg",
+      "compressed_path": "./photos/Food/FRZ_WF_099_TESCO ROAST BEEF DINNER 400G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/FRZ_WF_099_TESCO ROAST BEEF DINNER 400G_.placeholder.jpg"
+    },
+    {
+      "width": 1321,
+      "height": 2531,
+      "path": "./photos/Food/GRCI000494_TESCO AMERICAN STYLE MUSTARD 370G_.jpg",
+      "compressed_path": "./photos/Food/GRCI000494_TESCO AMERICAN STYLE MUSTARD 370G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/GRCI000494_TESCO AMERICAN STYLE MUSTARD 370G_.placeholder.jpg"
+    },
+    {
+      "width": 2686,
+      "height": 3228,
+      "path": "./photos/Food/GRCI000431_TESCO GARLIC and HERB CROUTONS 100G_.jpg",
+      "compressed_path": "./photos/Food/GRCI000431_TESCO GARLIC and HERB CROUTONS 100G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/GRCI000431_TESCO GARLIC and HERB CROUTONS 100G_.placeholder.jpg"
+    },
+    {
+      "width": 7121,
+      "height": 4142,
+      "path": "./photos/Food/TESCO CAFE_HAND BATTERED FISH AND CHIPS RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_HAND BATTERED FISH AND CHIPS RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_HAND BATTERED FISH AND CHIPS RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 7055,
+      "height": 1884,
+      "path": "./photos/Food/305368.jpg",
+      "compressed_path": "./photos/Food/305368.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/305368.placeholder.jpg"
+    },
+    {
+      "width": 5465,
+      "height": 4203,
+      "path": "./photos/Food/FRZ_WF_097_TESCO LASAGNE 400G_.jpg",
+      "compressed_path": "./photos/Food/FRZ_WF_097_TESCO LASAGNE 400G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/FRZ_WF_097_TESCO LASAGNE 400G_.placeholder.jpg"
+    },
     {
       "width": 2500,
       "height": 872,
-      "path": "./photos/Bar/Whole+cooked+lobster_.jpg",
-      "compressed_path": "./photos/Bar/Whole+cooked+lobster_.min.jpg",
+      "path": "./photos/Food/Whole+cooked+lobster_.jpg",
+      "compressed_path": "./photos/Food/Whole+cooked+lobster_.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Bar/Whole+cooked+lobster_.placeholder.jpg"
+      "placeholder_path": "./photos/Food/Whole+cooked+lobster_.placeholder.jpg"
     },
     {
-      "width": 8176,
-      "height": 6132,
-      "path": "./photos/Bar/TESCO CAFE_FLAT WHITE TOP RT - RGB.jpg",
-      "compressed_path": "./photos/Bar/TESCO CAFE_FLAT WHITE TOP RT - RGB.min.jpg",
+      "width": 5658,
+      "height": 3184,
+      "path": "./photos/Food/TESCO CAFE_PANCAKES RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_PANCAKES RT - RGB.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Bar/TESCO CAFE_FLAT WHITE TOP RT - RGB.placeholder.jpg"
+      "placeholder_path": "./photos/Food/TESCO CAFE_PANCAKES RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1986,
+      "path": "./photos/Food/cherries.jpg",
+      "compressed_path": "./photos/Food/cherries.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/cherries.placeholder.jpg"
+    },
+    {
+      "width": 750,
+      "height": 560,
+      "path": "./photos/Food/jerk+chicken+salad.jpg",
+      "compressed_path": "./photos/Food/jerk+chicken+salad.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/jerk+chicken+salad.placeholder.jpg"
+    },
+    {
+      "width": 7121,
+      "height": 4093,
+      "path": "./photos/Food/TESCO CAFE_100% BRITISH BEEF BURGER AND CHIPS RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_100% BRITISH BEEF BURGER AND CHIPS RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_100% BRITISH BEEF BURGER AND CHIPS RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 5658,
+      "height": 3208,
+      "path": "./photos/Food/TESCO CAFE_EGGS BENEDICT RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_EGGS BENEDICT RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_EGGS BENEDICT RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 3536,
+      "height": 2574,
+      "path": "./photos/Food/CHD_WF_106_JDF PREM STEAK PIE 470G_.jpg",
+      "compressed_path": "./photos/Food/CHD_WF_106_JDF PREM STEAK PIE 470G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/CHD_WF_106_JDF PREM STEAK PIE 470G_.placeholder.jpg"
+    },
+    {
+      "width": 7145,
+      "height": 3999,
+      "path": "./photos/Food/ITESCO CAFE_IRISH BREAKFAST RT - RGB.jpg",
+      "compressed_path": "./photos/Food/ITESCO CAFE_IRISH BREAKFAST RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/ITESCO CAFE_IRISH BREAKFAST RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 5778,
+      "height": 3231,
+      "path": "./photos/Food/TESCO CAFE_FLAT WHITE RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_FLAT WHITE RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_FLAT WHITE RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 300,
+      "height": 420,
+      "path": "./photos/Food/SPAGHETTI+BOLOGNESE.jpg",
+      "compressed_path": "./photos/Food/SPAGHETTI+BOLOGNESE.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/SPAGHETTI+BOLOGNESE.placeholder.jpg"
+    },
+    {
+      "width": 300,
+      "height": 420,
+      "path": "./photos/Food/granola.jpg",
+      "compressed_path": "./photos/Food/granola.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/granola.placeholder.jpg"
+    },
+    {
+      "width": 3434,
+      "height": 4819,
+      "path": "./photos/Food/75884745_Free From Breaded Pollock Fillets_B.jpg",
+      "compressed_path": "./photos/Food/75884745_Free From Breaded Pollock Fillets_B.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/75884745_Free From Breaded Pollock Fillets_B.placeholder.jpg"
+    },
+    {
+      "width": 1906,
+      "height": 4040,
+      "path": "./photos/Food/GRCI000510_TESCO TOMATO KETCHUP SQUEEZY BOTTLE 990G_.jpg",
+      "compressed_path": "./photos/Food/GRCI000510_TESCO TOMATO KETCHUP SQUEEZY BOTTLE 990G_.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/GRCI000510_TESCO TOMATO KETCHUP SQUEEZY BOTTLE 990G_.placeholder.jpg"
+    },
+    {
+      "width": 500,
+      "height": 700,
+      "path": "./photos/Food/SPICE+3.jpg",
+      "compressed_path": "./photos/Food/SPICE+3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/SPICE+3.placeholder.jpg"
+    },
+    {
+      "width": 500,
+      "height": 700,
+      "path": "./photos/Food/SPICE+2.jpg",
+      "compressed_path": "./photos/Food/SPICE+2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/SPICE+2.placeholder.jpg"
+    },
+    {
+      "width": 500,
+      "height": 994,
+      "path": "./photos/Food/281170.jpg",
+      "compressed_path": "./photos/Food/281170.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/281170.placeholder.jpg"
+    },
+    {
+      "width": 5834,
+      "height": 4126,
+      "path": "./photos/Food/75884745_Free From Breaded Pollock Fillets_A.jpg",
+      "compressed_path": "./photos/Food/75884745_Free From Breaded Pollock Fillets_A.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/75884745_Free From Breaded Pollock Fillets_A.placeholder.jpg"
+    },
+    {
+      "width": 6832,
+      "height": 3831,
+      "path": "./photos/Food/TESCO CAFE_GOOD FOR YOU BREAKFAST RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_GOOD FOR YOU BREAKFAST RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_GOOD FOR YOU BREAKFAST RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 1428,
+      "height": 790,
+      "path": "./photos/Food/TESCO CAFE_FLAT WHITE TOP RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_FLAT WHITE TOP RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_FLAT WHITE TOP RT - RGB.placeholder.jpg"
+    },
+    {
+      "width": 7768,
+      "height": 4502,
+      "path": "./photos/Food/TESCO CAFE_HOT CHOCOLATE RT - RGB.jpg",
+      "compressed_path": "./photos/Food/TESCO CAFE_HOT CHOCOLATE RT - RGB.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/TESCO CAFE_HOT CHOCOLATE RT - RGB.placeholder.jpg"
     }
   ]
 }
